@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1033599300101",
+    "project_id": "tp1-calcul",
+    "storage_bucket": "tp1-calcul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033599300101:android:5a874efd81521c052e626c",
+        "android_client_info": {
+          "package_name": "ma.ensaf.tp1_calcul"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3tLpk8ZtolnzR1idxWOoxMCOj3kzrT5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
